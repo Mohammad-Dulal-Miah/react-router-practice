@@ -1,0 +1,11 @@
+nav a {
+    text-decoration: none;
+    color:black;
+    margin-right: 20px;
+    cursor: pointer;
+    display: inline-flex;
+}
+
+nav a:hover{
+    color: green;
+}
